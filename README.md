@@ -16,7 +16,7 @@ Examples of basic markdown syntax
 3. Third item
 
 ### Unordered list
-- First itme
+- First item
 - Second item
 - Third item
 
