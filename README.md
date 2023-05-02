@@ -54,8 +54,8 @@ Here's a sentence with a footnote. [^1]
 
 Here's a paragraph with two footnotes.  Here is the first one. [^2]
 And here is the second one. [^3]
-[^2]: This is the first footnote.
-[^3]: This is the second footnote.
+[^2]: This is the second footnote.
+[^3]: This is the third footnote.
 
 ### Heading ID
 ### My Great Headiing {#custom-id}
