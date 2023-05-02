@@ -12,8 +12,9 @@ Examples of basic markdown syntax
 
 ### Ordered list
 1. First item
-2. Second item
 3. Third item
+4. Fourth item
+*(Second item was deleted)*
 
 ### Unordered list
 - First item
@@ -37,7 +38,6 @@ Examples of basic markdown syntax
 | Header | Title |
 | Paragraph1 | Text1 |
 | Paragraph2 | Text2 |
-| Paragraph3 | Text3 |
 
 ### Fenced code block
 '''
